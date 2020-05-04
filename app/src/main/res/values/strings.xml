@@ -8,4 +8,8 @@
     <string name="first_activity">First Activity!</string>
     <string name="hey_you_are_now_looking_a_the_second_activity">Hey, you are now looking at the second Activity.</string>
     <string name="secondActivity">Hey, you are now looking at the secound Activity.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Fragment">My new Fragment.</string>
 </resources>
