@@ -9,9 +9,15 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hey, you are now looking att the second activity."
-        tools:layout_editor_absoluteX="52dp"
-        tools:layout_editor_absoluteY="138dp" />
+        android:layout_width="315dp"
+        android:layout_height="20dp"
+        android:text="@string/hey_you_are_now_looking_at_the_second_activity"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.616"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.248" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

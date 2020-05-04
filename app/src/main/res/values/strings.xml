@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Screens</string>
+    <string name="hey_you_are_now_looking_at_the_second_activity">Hey, you are now looking att the second activity.</string>
+    <string name="start_activity">Start Activity</string>
 </resources>
