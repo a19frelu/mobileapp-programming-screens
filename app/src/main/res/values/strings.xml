@@ -2,4 +2,10 @@
     <string name="app_name">Screens</string>
     <string name="hey_you_are_now_looking_at_the_second_activity">Hey, you are now looking att the second activity.</string>
     <string name="start_activity">Start Activity</string>
+    <string name="start_activity_2" />
+    <string name="start_next_activit2" />
+    <string name="start_next_activity">Start next Activity</string>
+    <string name="first_activity">First Activity!</string>
+    <string name="hey_you_are_now_looking_a_the_second_activity">Hey, you are now looking at the second Activity.</string>
+    <string name="secondActivity">Hey, you are now looking at the secound Activity.</string>
 </resources>
